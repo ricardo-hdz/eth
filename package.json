@@ -1,0 +1,28 @@
+{
+  "name": "eth",
+  "version": "1.0.0",
+  "description": "Ethereum test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-hdz/eth.git"
+  },
+  "keywords": [
+    "ether",
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "Ricardo Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardo-hdz/eth/issues"
+  },
+  "homepage": "https://github.com/ricardo-hdz/eth#readme",
+  "dependencies": {
+    "solc": "^0.4.21",
+    "web3": "^0.20.2"
+  }
+}
