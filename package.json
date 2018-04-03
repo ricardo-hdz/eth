@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ricardo-hdz/eth#readme",
   "dependencies": {
+    "pinkie-promise": "^2.0.1",
     "solc": "^0.4.21",
     "web3": "^0.20.2"
   }
